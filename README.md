@@ -14,3 +14,9 @@
 3. DevTools (Chrome/FirefoxDevEdition)
 2. Consola (Server)
 4. Hello world!
+
+####Objects
+1. Crear Objetos
+2. Obtener propiedades de un objeto
+3. Eliminar propiedades de un objeto
+4. Actualizar/Cambiar/Agregar una propiedad
