@@ -27,3 +27,9 @@
 3. Asignación por valor
 4. NULL, Typeof, undefined
 5. Variables globales
+
+####Strings
+1. Single vs double quote
+2. Símbolos especiales
+4. Función replace
+3. Concatenación de strings
