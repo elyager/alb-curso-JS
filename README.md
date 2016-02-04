@@ -20,3 +20,10 @@
 2. Obtener propiedades de un objeto
 3. Eliminar propiedades de un objeto
 4. Actualizar/Cambiar/Agregar una propiedad
+
+####Variables
+1. Tipos de datos (primitivos y objetos)
+2. Asignación por referencia
+3. Asignación por valor
+4. NULL, Typeof, undefined
+5. Variables globales
