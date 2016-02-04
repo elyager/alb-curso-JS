@@ -51,3 +51,7 @@
 1. If
 2. Switch (pendiente)
 3. Try-catch (pendiente)
+
+####Ciclos (Loops)
+1. While/do while
+3. For/for-in (pendiente)
