@@ -33,3 +33,11 @@
 2. Símbolos especiales
 4. Función replace
 3. Concatenación de strings
+
+####Arrays
+1. Crear un arreglo
+2. Modificar elementos de un arreglo
+3. Agregar elementos de un arreglo
+4. Substituir elementos de un arreglo
+5. Eliminar elementos de un arreglo
+1. Función splice
