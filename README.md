@@ -40,4 +40,9 @@
 3. Agregar elementos de un arreglo
 4. Substituir elementos de un arreglo
 5. Eliminar elementos de un arreglo
-1. Función splice
+6. Función splice
+
+####Operadores
+1. Number y NaN (Not a Number)
+2. Operadores Aritmeticos + - / % *
+3. Operadores lógicos y de comparación && || !, == === !== !===
