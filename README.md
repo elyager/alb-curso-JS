@@ -44,5 +44,10 @@
 
 ####Operadores
 1. Number y NaN (Not a Number)
-2. Operadores Aritmeticos + - / % *
+2. Operadores Aritméticos + - / % *
 3. Operadores lógicos y de comparación && || !, == === !== !===
+
+####Sentencias condicionales
+1. If
+2. Switch (pendiente)
+3. Try-catch (pendiente)
