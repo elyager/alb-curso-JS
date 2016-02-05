@@ -49,13 +49,13 @@
 
 ####Sentencias condicionales
 1. If
-2. Switch (pendiente)
+2. Switch
 3. Try-catch (pendiente)
 
 ####Ciclos (Loops)
 1. While/do while
 2. For/for-in (pendiente)
 
-####Javascript en el browser
+####Magic Number App
 1. Página básica con javascript
 2. Magic Number Project
