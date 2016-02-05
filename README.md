@@ -54,7 +54,7 @@
 
 ####Ciclos (Loops)
 1. While/do while
-2. For/for-in (pendiente)
+2. For/for-in
 
 ####Magic Number App
 1. Página básica con javascript
