@@ -59,3 +59,7 @@
 ####Magic Number App
 1. Página básica con javascript
 2. Magic Number Project
+
+
+####Functions
+1. Functions
