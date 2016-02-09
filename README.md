@@ -62,4 +62,5 @@
 
 
 ####Functions
-1. Functions
+1. Funciones
+2. Funciones Anónimas
