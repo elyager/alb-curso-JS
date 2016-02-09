@@ -64,3 +64,5 @@
 ####Functions
 1. Funciones
 2. Funciones Anónimas
+3. This (Básico)
+4. Funciones (Method invocation Pattern)
