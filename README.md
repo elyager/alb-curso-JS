@@ -66,3 +66,8 @@
 2. Funciones Anónimas
 3. This (Básico)
 4. Funciones (Method invocation Pattern)
+
+
+####Scope
+1. Variables locales
+2. Variables Globales
