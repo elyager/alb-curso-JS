@@ -61,13 +61,14 @@
 2. Magic Number Project
 
 
-####Functions
+####Funciones
 1. Funciones
 2. Funciones Anónimas
 3. This (Básico)
 4. Funciones (Method invocation Pattern)
 
-
-####Scope
+####Ámbito
 1. Variables locales
 2. Variables Globales
+
+####Closures
