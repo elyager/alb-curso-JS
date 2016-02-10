@@ -66,6 +66,7 @@
 2. Funciones Anónimas
 3. This (Básico)
 4. Funciones (Method invocation Pattern)
+5. Funciones (Function invocation Pattern)
 
 ####Ámbito
 1. Variables locales
