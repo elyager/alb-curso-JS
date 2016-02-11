@@ -50,7 +50,7 @@
 ####Sentencias condicionales
 1. If
 2. Switch
-3. Try-catch (pendiente)
+3. Try-catch
 
 ####Ciclos (Loops)
 1. While/do while
