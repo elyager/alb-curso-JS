@@ -67,6 +67,7 @@
 3. This (Básico)
 4. Funciones (Method invocation Pattern)
 5. Funciones (Function invocation Pattern)
+6. Funciones (Constructor invocation Pattern)
 
 ####Ámbito
 1. Variables locales
