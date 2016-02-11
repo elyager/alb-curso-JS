@@ -76,3 +76,5 @@
 ####Closures
 
 ####Prototypes
+
+####Herencia
