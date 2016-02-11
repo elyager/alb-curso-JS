@@ -74,3 +74,5 @@
 2. Variables Globales
 
 ####Closures
+
+####Prototypes
