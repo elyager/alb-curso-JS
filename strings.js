@@ -38,8 +38,9 @@ console.log('Mi nombre es ' + nombre)
 console.log('Tu nombre: ' + nombre + ' tiene ' + nombre.length + ' letras')
 
 //##BONUS
-//El uso de replace
-var slogan = 'La mejor pizza del planeta'
+//El uso de replace NOTA:replace solo reemplaza el primer valor encontrado, para
+//reemplazar todos los valores hay que usar Regex que veremos después
+var slogan = 'La mejor pizza del planeta planeta'
 console.log(slogan)
 slogan = slogan.replace('planeta', 'universo!')
 console.log(slogan)
