@@ -1,34 +1,40 @@
-//Prototypes nos permite agregar funciones
-function Player(name) {
-  this.name = name,
-  this.hitpoints = 100,
-  this.attack = function(opponent) {
-    opponent.hitpoints -= 10
-    console.log(this.name + ' just hit ' + opponent.name)
-  }
+//Prototypes nos permite agregar propiedades a objetos y es la forma de implementar herencia en javascript
+
+//Las funciones crean un prototipo vacio
+function Player (name, attackPoints) {
+  this.name = name
+  this.attackPoints = attackPoints
+  this.lifePoints = 100
 }
 
-var p1 = new Player('Goku')
-var p2 = new Player('Vegeta')
-
-p1.attack(p2)
-console.log(p2.name + ' has ' + p2.hitpoints + ' hit points left')
-
-Player.prototype.heal = function(targetPlayer) {
-  targetPlayer.hitpoints += 5
-  console.log(this.name + ' just heal ' + targetPlayer.name)
+Player.prototype.attack = function (opponent) {
+  opponent.lifePoints -= this.attackPoints
+  console.log(this.name + ' just hit ' + opponent.name)
+  opponent.getLifePoints();
 }
 
-p2.heal(p2)
+Player.prototype.getLifePoints = function () {
+  console.log(this.name + ' has ' + this.lifePoints + ' lifePoints left')
+}
 
-console.log(p2.name + ' has ' + p2.hitpoints + ' hit points left')
-console.log(p1.name + ' has ' + p1.hitpoints + ' hit points left')
+var player1 = new Player('Goku', 20)
+var player2 = new Player('Vegeta', 10)
 
-p2.attack(p1)
-p2.attack(p1)
+printInfo()
 
-console.log(p1.name + ' has ' + p1.hitpoints + ' hit points left')
+// cada uno ataca de forma diferente
+player1.attack(player2) //Goku = 100, Vegeta = 80
+player2.attack(player1) //Goku = 90, Vegeta = 80
+player1.attack(player2) //Goku = 90, Vegeta = 60
 
-Player.prototype.energy = 200
-console.log(p1.energy)
-console.log(p2.energy)
+printInfo()
+
+// utils
+function printInfo() {
+  console.log('------------------------------------------------------')
+  console.log(Object.getPrototypeOf(player1))
+  console.log(player1)
+  console.log(player2)
+  console.log('------------------------------------------------------')
+
+}
