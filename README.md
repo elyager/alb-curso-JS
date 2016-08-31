@@ -75,6 +75,10 @@
 
 ####Closures
 
-####Prototypes
+####Prototipos
 
 ####Herencia
+
+####ECMAscript2015
+- let y const
+
