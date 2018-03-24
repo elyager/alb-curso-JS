@@ -1,5 +1,9 @@
 # Curso Básico de Javascript
 
+El curso está "desactualizado", pero igual y sirve de refencia.
+
+Aquí están los videos relacionados al curso [GO](https://www.youtube.com/watch?v=0PsoMisYwFQ&list=PLYrL-oKfpxEgU0LS3Dn-JE1qzgYTtqZyR)
+
 ### Requisitos
 - Editor de texto (de preferencia Atom https://ato1.io/)
 - Navegador web con DevTools (de preferencia Firefox Dev Edition https://ww1.mozilla.org/es-MX/firefox/developer/)
