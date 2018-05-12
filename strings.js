@@ -39,6 +39,7 @@ console.log('Tu nombre: ' + nombre + ' tiene ' + nombre.length + ' letras')
 
 //##BONUS
 //El uso de replace
+// NOTA: Replace sólo reemplaza la primera ocurrencia
 var slogan = 'La mejor pizza del planeta'
 console.log(slogan)
 slogan = slogan.replace('planeta', 'universo!')
